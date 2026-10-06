@@ -1,11 +1,13 @@
-# TryHackMe Labs
+# TryHackMe
 
-Writeups e anotações dos rooms estudados.
+Writeups e anotações dos rooms estudados. Perfil: [tryhackme.com/p/KarlXploit](https://tryhackme.com/p/KarlXploit)
 
 ## Rooms concluídos
-- Linux Fundamentals
-- Network Fundamentals
-- Web Fundamentals
+| Room | Trilha | Notas |
+|---|---|---|
+| Linux Fundamentals | Cybersecurity 101 | |
+| Network Fundamentals | Cybersecurity 101 | |
+| Web Fundamentals | Cybersecurity 101 | |
 
 ## Objetivo
-Documentar evolução prática em cybersecurity.
+Documentar a evolução prática em segurança ofensiva.
